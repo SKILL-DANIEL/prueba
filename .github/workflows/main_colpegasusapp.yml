@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'colpegasusApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9313C0C127D247F59136654939C63C7D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A48C0C60071146CAB5746A6E77C5AD3A }}
           package: .
